@@ -1,1 +1,6 @@
-# truffle-solidity
+## install
+
+```
+npm install -g web3 truffle
+```
+
